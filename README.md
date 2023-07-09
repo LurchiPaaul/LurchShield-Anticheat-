@@ -20,14 +20,14 @@
    - JobTrigger - Should a modder/cheater attempt to execute this trigger, it will result in an immediate ban. This prevents all players from being caught in handcuffs or similar conditions.
    - MoneyTrigger - As soon as the amount of money received exceeds or falls below the maximum or minimum value, the player in question is banned. This ensures that no money can be obtained by modding or cheating.
 * **BlackListVehicle**
-# ====================================================================================
+# ================================
 ## **__*Requirements*__**
 * ESX
 * Screenshot-basic
-# ====================================================================================
+# ================================
 ## **__*Preview*__**
-BlackListWeapon | V0.0.1 | https://www.youtube.com/watch?v=3QkbT7XZrA8
-Anti Speedhack | V0.0.1 | https://www.youtube.com/watch?v=Pz8jhrqT6Xg
-Anti Teleport | V0.0.1 | https://www.youtube.com/watch?v=Sbix3167XTA
-BlackListVehicle | V0.0.2 | https://www.youtube.com/watch?v=oVwEra-AQEU
+* BlackListWeapon | V0.0.1 | https://www.youtube.com/watch?v=3QkbT7XZrA8
+* Anti Speedhack | V0.0.1 | https://www.youtube.com/watch?v=Pz8jhrqT6Xg
+* Anti Teleport | V0.0.1 | https://www.youtube.com/watch?v=Sbix3167XTA
+* BlackListVehicle | V0.0.2 | https://www.youtube.com/watch?v=oVwEra-AQEU
 
